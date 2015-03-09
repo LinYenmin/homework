@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketing", "MovieTicket\Ticketing.csproj", "{921BB356-A99C-4B56-B922-3711F4D5DF92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketDiscount", "Discount\TicketDiscount.csproj", "{4D05C7E1-2097-4D57-8334-DC7EE7DAEF64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{921BB356-A99C-4B56-B922-3711F4D5DF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921BB356-A99C-4B56-B922-3711F4D5DF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921BB356-A99C-4B56-B922-3711F4D5DF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921BB356-A99C-4B56-B922-3711F4D5DF92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D05C7E1-2097-4D57-8334-DC7EE7DAEF64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D05C7E1-2097-4D57-8334-DC7EE7DAEF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D05C7E1-2097-4D57-8334-DC7EE7DAEF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D05C7E1-2097-4D57-8334-DC7EE7DAEF64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+c:\users\vm_win7\documents\visual studio 2012\Projects\[CS247]20150116\MovieTicket\bin\Debug\MovieTicket.exe.config
+c:\users\vm_win7\documents\visual studio 2012\Projects\[CS247]20150116\MovieTicket\bin\Debug\MovieTicket.exe
+c:\users\vm_win7\documents\visual studio 2012\Projects\[CS247]20150116\MovieTicket\bin\Debug\MovieTicket.pdb
+c:\users\vm_win7\documents\visual studio 2012\Projects\[CS247]20150116\MovieTicket\obj\Debug\MovieTicket.csprojResolveAssemblyReference.cache
+c:\users\vm_win7\documents\visual studio 2012\Projects\[CS247]20150116\MovieTicket\obj\Debug\MovieTicket.Form1.resources
+c:\users\vm_win7\documents\visual studio 2012\Projects\[CS247]20150116\MovieTicket\obj\Debug\MovieTicket.Properties.Resources.resources
+c:\users\vm_win7\documents\visual studio 2012\Projects\[CS247]20150116\MovieTicket\obj\Debug\MovieTicket.csproj.GenerateResource.Cache
+c:\users\vm_win7\documents\visual studio 2012\Projects\[CS247]20150116\MovieTicket\obj\Debug\MovieTicket.exe
+c:\users\vm_win7\documents\visual studio 2012\Projects\[CS247]20150116\MovieTicket\obj\Debug\MovieTicket.pdb

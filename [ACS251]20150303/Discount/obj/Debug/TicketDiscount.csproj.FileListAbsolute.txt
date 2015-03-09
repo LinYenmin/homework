@@ -1,0 +1,11 @@
+C:\Users\VM_WIN7\documents\visual studio 2012\Projects\[CS247]20150116\Discount\bin\Debug\Discount.dll
+C:\Users\VM_WIN7\documents\visual studio 2012\Projects\[CS247]20150116\Discount\bin\Debug\Discount.pdb
+C:\Users\VM_WIN7\documents\visual studio 2012\Projects\[CS247]20150116\Discount\obj\Debug\Discount.dll
+C:\Users\VM_WIN7\documents\visual studio 2012\Projects\[CS247]20150116\Discount\obj\Debug\Discount.pdb
+C:\Users\VM_WIN7\documents\visual studio 2012\Projects\[CS247]20150116\Discount\obj\Debug\TicketDiscount.csprojResolveAssemblyReference.cache
+C:\Users\VM_WIN7\Documents\Visual Studio 2012\Projects\[ACS251]20150303\Discount\obj\Debug\TicketDiscount.csprojResolveAssemblyReference.cache
+C:\Users\VM_WIN7\Documents\Visual Studio 2012\Projects\[ACS251]20150303\Discount\obj\Debug\Discount.dll
+C:\Users\VM_WIN7\Documents\Visual Studio 2012\Projects\[ACS251]20150303\Discount\obj\Debug\Discount.pdb
+C:\Users\VM_WIN7\Documents\Visual Studio 2012\Projects\[ACS251]20150303\Discount\bin\Debug\Discount.dll
+C:\Users\VM_WIN7\Documents\Visual Studio 2012\Projects\[ACS251]20150303\Discount\bin\Debug\Discount.pdb
+C:\Users\VM_WIN7\Documents\Visual Studio 2012\Projects\[ACS251]20150303\Discount\bin\Debug\Discount.dll.config

@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Ticketing.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TicketPrice" Type="System.UInt16" Scope="User">
+      <Value Profile="(Default)">250</Value>
+    </Setting>
+    <Setting Name="DiscountName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NoDiscount,StudentDiscount,SchoolChildren,ChildrenDiscount,VIPDiscount</Value>
+    </Setting>
+    <Setting Name="DiscountList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">無折扣,學生票折扣,小學生折扣,小孩折扣,VIP折扣</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

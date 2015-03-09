@@ -1,0 +1,9 @@
+c:\users\vm_win7\documents\visual studio 2012\Projects\[CS247]20150120\AllyControl\bin\Debug\AllyControl.exe.config
+c:\users\vm_win7\documents\visual studio 2012\Projects\[CS247]20150120\AllyControl\obj\Debug\AllyControl.csprojResolveAssemblyReference.cache
+c:\users\vm_win7\documents\visual studio 2012\Projects\[CS247]20150120\AllyControl\obj\Debug\AllyControl.Properties.Resources.resources
+c:\users\vm_win7\documents\visual studio 2012\Projects\[CS247]20150120\AllyControl\obj\Debug\AllyControl.csproj.GenerateResource.Cache
+c:\users\vm_win7\documents\visual studio 2012\Projects\[CS247]20150120\AllyControl\bin\Debug\AllyControl.exe
+c:\users\vm_win7\documents\visual studio 2012\Projects\[CS247]20150120\AllyControl\bin\Debug\AllyControl.pdb
+c:\users\vm_win7\documents\visual studio 2012\Projects\[CS247]20150120\AllyControl\obj\Debug\AllyControl.exe
+c:\users\vm_win7\documents\visual studio 2012\Projects\[CS247]20150120\AllyControl\obj\Debug\AllyControl.pdb
+c:\users\vm_win7\documents\visual studio 2012\Projects\[CS247]20150120\AllyControl\obj\Debug\AllyControl.Form1.resources
