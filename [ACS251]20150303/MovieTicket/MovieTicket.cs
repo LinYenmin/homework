@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Configuration;
 using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using TicketDiscount;
+
 
 namespace Ticketing
 {
@@ -15,7 +15,9 @@ namespace Ticketing
         private double price;
         private Dictionary<int, string> discountClasses = new Dictionary<int, string>();
 
-        private string dllPath = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location).ToString();
+        //private string dllPath = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location).ToString();
+
+        private string dllPath = Environment.CurrentDirectory;
         private Assembly theAssembly;
 
         public MovieTicket()
@@ -30,6 +32,7 @@ namespace Ticketing
             }
 
             dllPath += "\\Discount.dll";
+            
             theAssembly = Assembly.LoadFile(@dllPath);
         }
 
@@ -42,10 +45,16 @@ namespace Ticketing
         public double SetDiscount(int index)
         {
             Type calcType = theAssembly.GetType("TicketDiscount." + discountClasses[index]);
+            MethodInfo calculate = calcType.GetMethod("Calculate");
+            object calcInstance = theAssembly.CreateInstance(calcType.FullName, true);
+            return (double)calculate.Invoke(calcInstance, new object[] { this.price });
+
+            /*
             object calcInstance = Activator.CreateInstance(calcType);
             return (double)calcType.InvokeMember("Calculate",
                 BindingFlags.InvokeMethod | BindingFlags.Instance | BindingFlags.Public,
                 null, calcInstance, new object[] { this.price });
+              */
         }
     }
 }

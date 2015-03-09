@@ -20,3 +20,14 @@ C:\Users\VM_WIN7\Documents\Visual Studio 2012\Projects\[ACS251]20150303\MovieTic
 C:\Users\VM_WIN7\Documents\Visual Studio 2012\Projects\[ACS251]20150303\MovieTicket\obj\Debug\Ticketing.Form1.resources
 C:\Users\VM_WIN7\Documents\Visual Studio 2012\Projects\[ACS251]20150303\MovieTicket\obj\Debug\Ticketing.Properties.Resources.resources
 C:\Users\VM_WIN7\Documents\Visual Studio 2012\Projects\[ACS251]20150303\MovieTicket\obj\Debug\Ticketing.csproj.GenerateResource.Cache
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\[ACS251]20150303\MovieTicket\bin\Debug\MovieTicket.exe.config
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\[ACS251]20150303\MovieTicket\obj\Debug\MovieTicket.exe
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\[ACS251]20150303\MovieTicket\obj\Debug\MovieTicket.pdb
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\[ACS251]20150303\MovieTicket\bin\Debug\MovieTicket.exe
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\[ACS251]20150303\MovieTicket\bin\Debug\MovieTicket.pdb
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\[ACS251]20150303\MovieTicket\bin\Debug\Discount.dll
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\[ACS251]20150303\MovieTicket\bin\Debug\Discount.pdb
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\[ACS251]20150303\MovieTicket\obj\Debug\Ticketing.csprojResolveAssemblyReference.cache
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\[ACS251]20150303\MovieTicket\obj\Debug\Ticketing.Form1.resources
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\[ACS251]20150303\MovieTicket\obj\Debug\Ticketing.Properties.Resources.resources
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\[ACS251]20150303\MovieTicket\obj\Debug\Ticketing.csproj.GenerateResource.Cache
