@@ -1,0 +1,9 @@
+c:\users\vm_win7\documents\visual studio 2012\Projects\[ACS251]20150313\Events\bin\Debug\Events.exe.config
+c:\users\vm_win7\documents\visual studio 2012\Projects\[ACS251]20150313\Events\bin\Debug\Events.exe
+c:\users\vm_win7\documents\visual studio 2012\Projects\[ACS251]20150313\Events\bin\Debug\Events.pdb
+c:\users\vm_win7\documents\visual studio 2012\Projects\[ACS251]20150313\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+c:\users\vm_win7\documents\visual studio 2012\Projects\[ACS251]20150313\Events\obj\Debug\Events.Form1.resources
+c:\users\vm_win7\documents\visual studio 2012\Projects\[ACS251]20150313\Events\obj\Debug\Events.Properties.Resources.resources
+c:\users\vm_win7\documents\visual studio 2012\Projects\[ACS251]20150313\Events\obj\Debug\Events.csproj.GenerateResource.Cache
+c:\users\vm_win7\documents\visual studio 2012\Projects\[ACS251]20150313\Events\obj\Debug\Events.exe
+c:\users\vm_win7\documents\visual studio 2012\Projects\[ACS251]20150313\Events\obj\Debug\Events.pdb
