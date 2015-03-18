@@ -16,52 +16,21 @@ namespace Events
 
         private int hp;
 
+        
         public int HP
         {
             get
             {
-                if (this.hp >= 0)
-                {
-                    return this.hp;
-                }
-                else
-                {
-                    this.InTeam = false;
-                    return 0;
-                }
+                return this.hp;
             }
             set
             {
-                if (this.hp >= 0)
-                {
-                    this.hp = value;
-                }
-                else
-                {
-                    this.InTeam = false;
+                if (value <= 0)
                     this.hp = 0;
-                }
+                else
+                    this.hp = value;
             }
         }
-
-        /*
-        public int HP
-        {
-            get
-            {
-                if (this.hp >= 0)
-                    return this.hp;
-                else
-                    return 0;
-            }
-            set
-            {
-                if (this.hp <= 0)
-                    this.hp = 0;
-                else
-                    this.hp = value;
-            }
-        }*/
 
         public void OnAttack(object sender, EventArgs e)
         {

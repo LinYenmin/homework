@@ -7,3 +7,12 @@ c:\users\vm_win7\documents\visual studio 2012\Projects\[ACS251]20150313\Events\o
 c:\users\vm_win7\documents\visual studio 2012\Projects\[ACS251]20150313\Events\obj\Debug\Events.csproj.GenerateResource.Cache
 c:\users\vm_win7\documents\visual studio 2012\Projects\[ACS251]20150313\Events\obj\Debug\Events.exe
 c:\users\vm_win7\documents\visual studio 2012\Projects\[ACS251]20150313\Events\obj\Debug\Events.pdb
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\[ACS251]20150313\Events\bin\Debug\Events.exe.config
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\[ACS251]20150313\Events\obj\Debug\Events.exe
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\[ACS251]20150313\Events\obj\Debug\Events.pdb
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\[ACS251]20150313\Events\bin\Debug\Events.exe
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\[ACS251]20150313\Events\bin\Debug\Events.pdb
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\[ACS251]20150313\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\[ACS251]20150313\Events\obj\Debug\Events.Form1.resources
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\[ACS251]20150313\Events\obj\Debug\Events.Properties.Resources.resources
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\[ACS251]20150313\Events\obj\Debug\Events.csproj.GenerateResource.Cache
