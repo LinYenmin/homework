@@ -1,0 +1,9 @@
+c:\users\tatung\documents\visual studio 2012\Projects\[ACS251]20150318\Order\bin\Debug\Order.exe.config
+c:\users\tatung\documents\visual studio 2012\Projects\[ACS251]20150318\Order\bin\Debug\Order.exe
+c:\users\tatung\documents\visual studio 2012\Projects\[ACS251]20150318\Order\bin\Debug\Order.pdb
+c:\users\tatung\documents\visual studio 2012\Projects\[ACS251]20150318\Order\obj\Debug\Order.csprojResolveAssemblyReference.cache
+c:\users\tatung\documents\visual studio 2012\Projects\[ACS251]20150318\Order\obj\Debug\Order.Form1.resources
+c:\users\tatung\documents\visual studio 2012\Projects\[ACS251]20150318\Order\obj\Debug\Order.Properties.Resources.resources
+c:\users\tatung\documents\visual studio 2012\Projects\[ACS251]20150318\Order\obj\Debug\Order.csproj.GenerateResource.Cache
+c:\users\tatung\documents\visual studio 2012\Projects\[ACS251]20150318\Order\obj\Debug\Order.exe
+c:\users\tatung\documents\visual studio 2012\Projects\[ACS251]20150318\Order\obj\Debug\Order.pdb
