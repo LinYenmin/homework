@@ -1,0 +1,9 @@
+c:\users\tatung\documents\visual studio 2012\Projects\ACS\events\bin\Debug\events.exe.config
+c:\users\tatung\documents\visual studio 2012\Projects\ACS\events\bin\Debug\events.exe
+c:\users\tatung\documents\visual studio 2012\Projects\ACS\events\bin\Debug\events.pdb
+c:\users\tatung\documents\visual studio 2012\Projects\ACS\events\obj\Debug\events.csprojResolveAssemblyReference.cache
+c:\users\tatung\documents\visual studio 2012\Projects\ACS\events\obj\Debug\events.Form1.resources
+c:\users\tatung\documents\visual studio 2012\Projects\ACS\events\obj\Debug\events.Properties.Resources.resources
+c:\users\tatung\documents\visual studio 2012\Projects\ACS\events\obj\Debug\events.csproj.GenerateResource.Cache
+c:\users\tatung\documents\visual studio 2012\Projects\ACS\events\obj\Debug\events.exe
+c:\users\tatung\documents\visual studio 2012\Projects\ACS\events\obj\Debug\events.pdb

@@ -1,0 +1,6 @@
+C:\Users\tatung\documents\visual studio 2012\Projects\ACS\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\ACS\Iterator\bin\Debug\Iterator.exe
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\ACS\Iterator\bin\Debug\Iterator.pdb
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\ACS\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\ACS\Iterator\obj\Debug\Iterator.exe
+C:\Users\tatung\Documents\Visual Studio 2012\Projects\ACS\Iterator\obj\Debug\Iterator.pdb
